@@ -1,4 +1,4 @@
-from flask import request
+import requests
 
 application = {
     "destination_port": 53,
